@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML = '<h1 style="text-align:center;margin-top:50px;">Daily Quest Tracker PWA Ready</h1>';
